@@ -1,3 +1,8 @@
+<div>
+<img src="./screenshots/0.jpeg" alt="drawing" style="width:auto;"/>
+
+</div>
+
 # architecture_bloc
 
 Este é um projeto **Flutter** desenvolvido com foco em escalabilidade e testabilidade, utilizando o padrão **Clean Architecture** e o pacote **BLoC** para gerenciamento de estado.
